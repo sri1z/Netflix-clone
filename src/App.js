@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       <Sri></Sri>
-      <Sri></Sri>
 
 
 <section class="upper">
